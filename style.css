@@ -1,0 +1,12 @@
+button{ 
+  color: blue; 
+  background-color:#fed; 
+  width: 100px;
+  height: 50px;
+  border-color: green; 
+} 
+
+input{
+    width: 395px;
+    font-size: 20px;
+}
